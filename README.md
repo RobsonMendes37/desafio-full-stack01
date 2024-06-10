@@ -17,7 +17,6 @@ O Supplier Management System é uma aplicação web que permite gerenciar inform
 - **Estilo**: CSS com Bootstrap
 
 ## Instalação
-## Instalação
 
 1. Clone o repositório para sua máquina local:
 2. Navegue até o diretório do projeto:
