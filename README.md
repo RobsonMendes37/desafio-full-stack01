@@ -39,7 +39,7 @@ O Supplier Management System é uma aplicação web que permite gerenciar inform
 5. Inicie o servidor frontend:
     - No diretório `frontend`, execute:
         ```bash
-        npm start
+        npm run dev
         ```
 
 6. Acesse a aplicação em seu navegador: [http://localhost:3000](http://localhost:3000)
